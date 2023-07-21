@@ -1,5 +1,5 @@
 {
-    "name": "laravel/laravel",
+    "name": "harby/laraModules",
     "type": "project",
     "description": "The skeleton application for the Laravel framework with modules Structurel.",
     "keywords": [ "laravel" , "framework" , "modules" ],
