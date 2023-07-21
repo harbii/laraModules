@@ -1,0 +1,13 @@
+{
+    "name"        : "Atom" ,
+    "alias"       : "atom" ,
+    "description" : ""     ,
+    "keywords"    : [ ]    ,
+    "priority"    : 0      ,
+    "aliases"     : { }    ,
+    "files"       : [ ]    ,
+    "requires"    : [ ]    ,
+    "providers"   : [
+        "Modules\\Atom\\Providers\\AtomServiceProvider"
+    ]
+}

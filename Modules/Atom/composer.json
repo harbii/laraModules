@@ -1,0 +1,19 @@
+{
+    "name" : "Modules/atom",
+    "description" : "",
+    "authors" : [ {
+        "name"  : "Mahmoud harby",
+        "email" : "mahmuod.sami.99@gmail.com"
+    } ],
+    "extra" : {
+        "laravel" : {
+            "providers" : [ ] ,
+            "aliases"   : { }
+        }
+    },
+    "autoload" : {
+        "psr-4" : {
+            "Modules\\Atom\\" : ""
+        }
+    }
+}
